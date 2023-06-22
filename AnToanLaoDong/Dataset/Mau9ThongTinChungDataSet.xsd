@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Mau9ThongTinChungDataSet" targetNamespace="http://tempuri.org/Mau9ThongTinChungDataSet.xsd" xmlns:mstns="http://tempuri.org/Mau9ThongTinChungDataSet.xsd" xmlns="http://tempuri.org/Mau9ThongTinChungDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Mau9ThongTinChungDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Mau9ThongTinChungDataSet" msprop:Generator_UserDSName="Mau9ThongTinChungDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ThongTin" msprop:Generator_TableClassName="ThongTinDataTable" msprop:Generator_TableVarName="tableThongTin" msprop:Generator_TablePropName="ThongTin" msprop:Generator_RowDeletingName="ThongTinRowDeleting" msprop:Generator_RowChangingName="ThongTinRowChanging" msprop:Generator_RowEvHandlerName="ThongTinRowChangeEventHandler" msprop:Generator_RowDeletedName="ThongTinRowDeleted" msprop:Generator_UserTableName="ThongTin" msprop:Generator_RowChangedName="ThongTinRowChanged" msprop:Generator_RowEvArgName="ThongTinRowChangeEvent" msprop:Generator_RowClassName="ThongTinRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NamBaoCao" msprop:Generator_ColumnVarNameInTable="columnNamBaoCao" msprop:Generator_ColumnPropNameInRow="NamBaoCao" msprop:Generator_ColumnPropNameInTable="NamBaoCaoColumn" msprop:Generator_UserColumnName="NamBaoCao" type="xs:string" minOccurs="0" />
+              <xs:element name="DonViBaoCao" msprop:Generator_ColumnVarNameInTable="columnDonViBaoCao" msprop:Generator_ColumnPropNameInRow="DonViBaoCao" msprop:Generator_ColumnPropNameInTable="DonViBaoCaoColumn" msprop:Generator_UserColumnName="DonViBaoCao" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

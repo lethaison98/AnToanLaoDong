@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DSHocVien>
+  <HocVien>
+    <ID>1</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Nguyễn Văn An</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>01/01/1990</NgaySinh>
+    <CCCD>123456789</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 1</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD>GCN000001</SoCNATLD>
+    <ChucVu>Giám đốc</ChucVu>
+    <XepLoai>Khá</XepLoai>
+    <NgayCapCN>04/12/2022</NgayCapCN>
+    <HieuLucCN>04/12/2024</HieuLucCN>
+    <SoTheATLD></SoTheATLD>
+    <CongViec></CongViec>
+    <KhoaHuanLuyen></KhoaHuanLuyen>
+    <NgayCapThe></NgayCapThe>
+    <HieuLucThe></HieuLucThe>
+  </HocVien>
+  <HocVien>
+    <ID>2</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Hoàng Văn Bình</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>01/01/1991</NgaySinh>
+    <CCCD>123456799</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 1</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD>GCN000002</SoCNATLD>
+    <ChucVu>Phó Giám đốc</ChucVu>
+    <XepLoai>Khá</XepLoai>
+    <NgayCapCN>04/12/2022</NgayCapCN>
+    <HieuLucCN>04/12/2024</HieuLucCN>
+    <SoTheATLD></SoTheATLD>
+    <CongViec></CongViec>
+    <KhoaHuanLuyen></KhoaHuanLuyen>
+    <NgayCapThe></NgayCapThe>
+    <HieuLucThe></HieuLucThe>
+  </HocVien>
+  <HocVien>
+    <ID>3</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Nguyễn Thị Cúc</HoTen>
+    <GioiTinh>Nữ</GioiTinh>
+    <NgaySinh>01/01/1992</NgaySinh>
+    <CCCD>123456809</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 2</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD>GCN000003</SoCNATLD>
+    <ChucVu>Trưởng Phòng</ChucVu>
+    <XepLoai>Khá</XepLoai>
+    <NgayCapCN>04/12/2022</NgayCapCN>
+    <HieuLucCN>04/12/2024</HieuLucCN>
+    <SoTheATLD></SoTheATLD>
+    <CongViec></CongViec>
+    <KhoaHuanLuyen></KhoaHuanLuyen>
+    <NgayCapThe></NgayCapThe>
+    <HieuLucThe></HieuLucThe>
+  </HocVien>
+  <HocVien>
+    <ID>4</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Trần Trúc Diệu</HoTen>
+    <GioiTinh>Nữ</GioiTinh>
+    <NgaySinh>01/01/1993</NgaySinh>
+    <CCCD>123456819</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 2</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD>GCN000004</SoCNATLD>
+    <ChucVu>Trưởng Phòng</ChucVu>
+    <XepLoai>Khá</XepLoai>
+    <NgayCapCN>04/12/2022</NgayCapCN>
+    <HieuLucCN>04/12/2024</HieuLucCN>
+    <SoTheATLD></SoTheATLD>
+    <CongViec></CongViec>
+    <KhoaHuanLuyen></KhoaHuanLuyen>
+    <NgayCapThe></NgayCapThe>
+    <HieuLucThe></HieuLucThe>
+  </HocVien>
+  <HocVien>
+    <ID>5</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Hoàng Minh Dũng</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>01/01/1994</NgaySinh>
+    <CCCD>123456829</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 3</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD></SoCNATLD>
+    <ChucVu></ChucVu>
+    <XepLoai></XepLoai>
+    <NgayCapCN></NgayCapCN>
+    <HieuLucCN></HieuLucCN>
+    <SoTheATLD>THE0001</SoTheATLD>
+    <CongViec>Kỹ sư</CongViec>
+    <KhoaHuanLuyen>An toàn lao động</KhoaHuanLuyen>
+    <NgayCapThe>14/4/2022</NgayCapThe>
+    <HieuLucThe>14/4/2024</HieuLucThe>
+  </HocVien>
+  <HocVien>
+    <ID>6</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Châu Hoàng Dương</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>01/01/1995</NgaySinh>
+    <CCCD>123456839</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 3</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD></SoCNATLD>
+    <ChucVu></ChucVu>
+    <XepLoai></XepLoai>
+    <NgayCapCN></NgayCapCN>
+    <HieuLucCN></HieuLucCN>
+    <SoTheATLD>THE0002</SoTheATLD>
+    <CongViec>Kỹ sư</CongViec>
+    <KhoaHuanLuyen>An toàn lao động</KhoaHuanLuyen>
+    <NgayCapThe>14/4/2022</NgayCapThe>
+    <HieuLucThe>14/4/2024</HieuLucThe>
+  </HocVien>
+  <HocVien>
+    <ID>7</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Nguyễn Thị Giang</HoTen>
+    <GioiTinh>Nữ</GioiTinh>
+    <NgaySinh>01/01/1996</NgaySinh>
+    <CCCD>123456849</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 4</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD></SoCNATLD>
+    <ChucVu></ChucVu>
+    <XepLoai></XepLoai>
+    <NgayCapCN></NgayCapCN>
+    <HieuLucCN></HieuLucCN>
+    <SoTheATLD>THE0003</SoTheATLD>
+    <CongViec>Công nhân</CongViec>
+    <KhoaHuanLuyen>An toàn lao động</KhoaHuanLuyen>
+    <NgayCapThe>14/4/2022</NgayCapThe>
+    <HieuLucThe>14/4/2024</HieuLucThe>
+  </HocVien>
+  <HocVien>
+    <ID>8</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Mai Văn Hoàng</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>01/01/1997</NgaySinh>
+    <CCCD>123456859</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 4</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD></SoCNATLD>
+    <ChucVu></ChucVu>
+    <XepLoai></XepLoai>
+    <NgayCapCN></NgayCapCN>
+    <HieuLucCN></HieuLucCN>
+    <SoTheATLD>THE0004</SoTheATLD>
+    <CongViec>Công nhân</CongViec>
+    <KhoaHuanLuyen>An toàn lao động</KhoaHuanLuyen>
+    <NgayCapThe>14/4/2022</NgayCapThe>
+    <HieuLucThe>14/4/2024</HieuLucThe>
+  </HocVien>
+  <HocVien>
+    <ID>9</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Lê Thái Hùng</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>01/01/1998</NgaySinh>
+    <CCCD>123456869</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 5</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD></SoCNATLD>
+    <ChucVu></ChucVu>
+    <XepLoai></XepLoai>
+    <NgayCapCN></NgayCapCN>
+    <HieuLucCN></HieuLucCN>
+    <SoTheATLD>THE0005</SoTheATLD>
+    <CongViec>Trợ lý Kỹ thuật, vận hành máy, làm việc trên cao</CongViec>
+    <KhoaHuanLuyen>An toàn lao động làm việc trên cao phòng chống cháy nổ</KhoaHuanLuyen>
+    <NgayCapThe>14/4/2022</NgayCapThe>
+    <HieuLucThe>14/4/2024</HieuLucThe>
+  </HocVien>
+  <HocVien>
+    <ID>10</ID>
+    <MaLop>NAN_08_05</MaLop>
+    <HoTen>Lê Minh Kiên</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>01/01/1999</NgaySinh>
+    <CCCD>123456879</CCCD>
+    <QuocTich>Việt Nam</QuocTich>
+    <DoiTuong>Nhóm 6</DoiTuong>
+    <DonVi>Công ty xây dựng số 2</DonVi>
+    <TuNgay>04/07/2022</TuNgay>
+    <DenNgay>04/10/2022</DenNgay>
+    <SoCNATLD></SoCNATLD>
+    <ChucVu></ChucVu>
+    <XepLoai></XepLoai>
+    <NgayCapCN></NgayCapCN>
+    <HieuLucCN></HieuLucCN>
+    <SoTheATLD>THE0006</SoTheATLD>
+    <CongViec>Trợ lý KT</CongViec>
+    <KhoaHuanLuyen>An toàn lao động</KhoaHuanLuyen>
+    <NgayCapThe>14/4/2022</NgayCapThe>
+    <HieuLucThe>14/4/2024</HieuLucThe>
+  </HocVien>
+  <LopDaoTao>
+    <ID>6</ID>
+    <MaLop>NAN_02</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>1</ID>
+    <MaLop>NAN_01</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>2</ID>
+    <MaLop>NAN_03</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>4</ID>
+    <MaLop>NAN_034</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>5</ID>
+    <MaLop>NAN_05</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>3</ID>
+    <MaLop>NAN_04</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>7</ID>
+    <MaLop>NAN_07</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>8</ID>
+    <MaLop>NAN_08</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>9</ID>
+    <MaLop>NAN_09</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>10</ID>
+    <MaLop>NAN_10</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+  <LopDaoTao>
+    <ID>11</ID>
+    <MaLop>NAN_11</MaLop>
+    <DonVi></DonVi>
+    <DiaChi></DiaChi>
+    <Nam>2022</Nam>
+    <SoLuongHV>10</SoLuongHV>
+    <TuNgay>11/04/2022</TuNgay>
+    <DenNgay>17/04/2022</DenNgay>
+    <NoiDungDT1>Đào tạo công tác phòng chống cháy nổ</NoiDungDT1>
+    <NoiDungDT2>Đào tạo công tác an toàn VSLĐ</NoiDungDT2>
+    <NoiDungDT3>Đào tạo công tác sơ cấp cứu</NoiDungDT3>
+    <NoiDungDT4>Đào tạo bồi dưỡng nghiệp vụ cứu hộ cứu nạn</NoiDungDT4>
+    <NoiDungDT5></NoiDungDT5>
+  </LopDaoTao>
+</DSHocVien>
